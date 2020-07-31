@@ -1,4 +1,4 @@
-<b><p align="center"> Tentang Web ini </p></b
+<b><p align="center"> Tentang Web ini </p></b>
 
 <ol>
   <li> Ini web CMS masih jauh dari kata sempurna, mohon masukan dan bimbingannya </li>
